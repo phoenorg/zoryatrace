@@ -4,7 +4,7 @@
 
 **ZoryaTrace** is a powerful artificial intelligence algorithm designed to analyze texts and determine whether the content is AI-generated or not. ZoryaTrace leverage individual user data to determinate if LLM was used to generate text. To get into the mathematical details, **ZoryaTrace** uses the <i>[Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)</i>, which is based on the <i>[Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)</i> to achieve this goal.
 
-🚧 **Currently in development** – many features are still being built and refined. 
+🚧 **Currently in HEAVY development** – many features are still being built and refined. 
 
 📚 **Project progress :** ![](https://geps.dev/progress/42?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
