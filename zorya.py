@@ -640,8 +640,14 @@ class ZoryaApp:
             self.sc_tf_idf = TFIDFCLassifier(self.trainData)
             self.sc_tf_idf.train()
             
+        
         except Exception as e:
-            messagebox.showerror("Error", f"Failed to load training data: {str(e)}")
+            import traceback
+            print("ERROR in load_data():")
+            traceback.print_exc()
+            messagebox.showerror("Error", f"Failed to load training data:\n{e}")
+            self.sc_tf_idf = None
+
     
     def process_message(self, message, lower_case=True, stem=True, stop_words=True, gram=1):
         if lower_case:
