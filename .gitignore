@@ -11,7 +11,6 @@ data.csv
 dataclassifier.py
 database.csv
 default_data.csv
-working_default_data.csv
 zoryasort.py
 zoryalgorithm.py
 dataset-protocol.txt

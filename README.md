@@ -19,7 +19,7 @@
 - [Algorithm Overview](#algorithm)
 - [Ressources](resources)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](https://github.com/phoenorg/zoryatrace/?tab=GPL-3.0-1-ov-file)
 - [Credits](#credits)
 
 ## Features  
@@ -225,8 +225,6 @@ Contributions are welcome! Feel free to make :
 - Additional language support
 
 Thank you !
-
-## License  
  
 
 ## Credits  
